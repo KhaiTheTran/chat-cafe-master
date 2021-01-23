@@ -1,0 +1,3 @@
+Random Sequence Recipe: <g>Medium<g>
+This recipe consists of pressing the specified keys on the screen <b>in any order<b>.
+If you press the wrong button, <r>you will lose money!!<r>

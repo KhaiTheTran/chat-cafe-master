@@ -1,0 +1,3 @@
+Timed Recipe: <g>Easy<g>
+Press the <r>red<r> button or hit <g>space<g> to start the recipe cooking.
+You can then go about other recipes, but <r>watch the timer on the card.<r> When it finishes, open the recipe again and press the <b>blue<b> button or <g>space<g> to finish the recipe.

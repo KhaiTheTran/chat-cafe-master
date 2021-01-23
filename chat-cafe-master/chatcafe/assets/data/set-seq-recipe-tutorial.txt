@@ -1,0 +1,2 @@
+Set Sequence Recipe: <g>Easy<g>
+This recipe consists of pressing the specified keys on the screen <b>from left to right<b>.

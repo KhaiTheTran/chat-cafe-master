@@ -1,0 +1,4 @@
+Coffee Recipe: <b>Medium<b>
+This recipe has two steps. First, <g>start pouring<g> by clicking on the text. Then, once the coffee has been poured, <g>click on the ingredients<g> that the recipe requires.
+
+You can also use <g>space<g> to start pouring and finish the coffee, and you can use the <g>number keys<g> to select ingredients

@@ -1,0 +1,26 @@
+You are welcome to ChatCafe game!###
+
+Once we had a first level ready and playable, we tested it on 
+a pair of classmates from a different class that one of our 
+members was attending. We didn't have 15 minutes of gameplay,
+but given thatmost of our gameplay would be centered around 
+the engine that we were developing, we figured that this 
+would be a good time to get advice and iterate on our results.###
+
+The first thing we noticed is that our tutorial was only 
+somewhat effective. Currently, we just had a page of 
+instructions for the player to read, which didn't tell 
+them much about the instructions for each individual 
+recipe. However, we did notice that the instructions for
+the recipes seemed intuitive enough, as once the players 
+started playing the game, they seemed to pick up the recipe 
+details quickly. Our goal is to make the next recipes that 
+we implement to be similar to this, where each one is 
+relatively intuitive within their own right so that even 
+if a user doesn't read the instructions, it is relatively 
+easy for them to take a split second and understand what 
+is going on.
+
+Please, choose the ingridients from the left side of the
+recipe and click on the picture appropriate with ingridients.
+                 Have fun!###
